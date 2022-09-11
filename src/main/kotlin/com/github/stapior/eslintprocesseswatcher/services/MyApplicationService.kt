@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.stapior.eslintprocesseswatcher.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.stapior.eslintprocesseswatcher.MyBundle
 
 class MyApplicationService {
 
